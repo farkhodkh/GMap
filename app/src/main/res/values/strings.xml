@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GMap</string>
+    <string name="searchHint">Input search text</string>
+    <string name="map_info">map_info</string>
+    <string name="title_activity_license">LicenseActivity</string>
+    <string name="license_label">Google License</string>
+    <string name="licenseText">This license information is displayed in Settings > Google > Open Source on any device running Google Play services. Applications do not need to display this license text, and this method will be removed in a future version of Google Play services.</string>
+</resources>
